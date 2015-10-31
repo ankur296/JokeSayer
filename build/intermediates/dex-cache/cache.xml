@@ -1,0 +1,299 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        jar="D:\study\MyApps\Nanodegree\JokeSayer\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-appindexing\7.5.0\jars\classes.jar"
+        jumboMode="false"
+        revision="22.0.1"
+        sha1="f02127a85abd52a2cd526d4c2409f21969f80ee8">
+        <dex dex="D:\study\MyApps\Nanodegree\JokeSayer\app\build\intermediates\pre-dexed\free\debug\classes-38cafa8f083bc1f606a5724c1c2e646ee1e000d8.jar" />
+    </item>
+    <item
+        jar="D:\study\MyApps\Nanodegree\JokeSayer\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-appinvite\7.5.0\jars\classes.jar"
+        jumboMode="false"
+        revision="22.0.1"
+        sha1="63ec6e9f4fe5482a7447d0f3091b8e543a02554c">
+        <dex dex="D:\study\MyApps\Nanodegree\JokeSayer\app\build\intermediates\pre-dexed\free\debug\classes-3e2098e7bee6dbb4be73dd85e0b791aa542769d6.jar" />
+    </item>
+    <item
+        jar="D:\study\MyApps\Nanodegree\JokeSayer\javaJokes\build\libs\javaJokes.jar"
+        jumboMode="false"
+        revision="22.0.1"
+        sha1="4e607548dbad6ee579505baec1ca05c2a1ab0dcb">
+        <dex dex="D:\study\MyApps\Nanodegree\JokeSayer\app\build\intermediates\pre-dexed\free\debug\javaJokes-34b237578b5074da4bd969765ddb00faec234b54.jar" />
+    </item>
+    <item
+        jar="C:\Users\AnkurNigam\.gradle\caches\modules-2\files-2.1\com.google.api-client\google-api-client-android\1.19.0\ba2aafb867f6af469f936ae76426cf0a280094bd\google-api-client-android-1.19.0.jar"
+        jumboMode="false"
+        revision="22.0.1"
+        sha1="ba2aafb867f6af469f936ae76426cf0a280094bd">
+        <dex dex="D:\study\MyApps\Nanodegree\JokeSayer\app\build\intermediates\pre-dexed\paid\debug\google-api-client-android-1.19.0-7b637adeb058865c232dc6f2caa383606b2da9be.jar" />
+    </item>
+    <item
+        jar="D:\study\MyApps\Nanodegree\JokeSayer\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-fitness\7.5.0\jars\classes.jar"
+        jumboMode="false"
+        revision="22.0.1"
+        sha1="a172852a35ff919e85b9b7f14bbc15c5bee25520">
+        <dex dex="D:\study\MyApps\Nanodegree\JokeSayer\app\build\intermediates\pre-dexed\free\debug\classes-d3ac26e6ff00982f9c7cc30fed054b69d7aefcdd.jar" />
+    </item>
+    <item
+        jar="D:\study\MyApps\Nanodegree\JokeSayer\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-appstate\7.5.0\jars\classes.jar"
+        jumboMode="false"
+        revision="22.0.1"
+        sha1="68c140702c7242d914655bcb3164d9e8c45b84cb">
+        <dex dex="D:\study\MyApps\Nanodegree\JokeSayer\app\build\intermediates\pre-dexed\free\debug\classes-4cc6b8e4afde69c418b85887edc0295aaecbf609.jar" />
+    </item>
+    <item
+        jar="D:\study\MyApps\Nanodegree\JokeSayer\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-identity\7.5.0\jars\classes.jar"
+        jumboMode="false"
+        revision="22.0.1"
+        sha1="d405025c600055237c171a0bbabaa49d69696573">
+        <dex dex="D:\study\MyApps\Nanodegree\JokeSayer\app\build\intermediates\pre-dexed\free\debug\classes-457c63833b5b26100505856a776c917b1ac06dcd.jar" />
+    </item>
+    <item
+        jar="D:\study\MyApps\Nanodegree\JokeSayer\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-gcm\7.5.0\jars\classes.jar"
+        jumboMode="false"
+        revision="22.0.1"
+        sha1="8d736fefa22d896e84a268354b3ed48a42663150">
+        <dex dex="D:\study\MyApps\Nanodegree\JokeSayer\app\build\intermediates\pre-dexed\free\debug\classes-bf716cdc13612c1193d3c3889c13d8840ebb621f.jar" />
+    </item>
+    <item
+        jar="D:\study\MyApps\Nanodegree\JokeSayer\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-location\7.5.0\jars\classes.jar"
+        jumboMode="false"
+        revision="22.0.1"
+        sha1="1e98ef3f124bb7a11f8575f9ff5dfea330b61b6f">
+        <dex dex="D:\study\MyApps\Nanodegree\JokeSayer\app\build\intermediates\pre-dexed\free\debug\classes-4dbcf2dd2db816abb6457b7be1947ae06625bcfe.jar" />
+    </item>
+    <item
+        jar="D:\study\MyApps\Nanodegree\JokeSayer\backendJokeEngine\build\libs\backendJokeEngine-android-endpoints.jar"
+        jumboMode="false"
+        revision="22.0.1"
+        sha1="0909a5c73497631fb4e918d5be0b25d41f9b3ad4">
+        <dex dex="D:\study\MyApps\Nanodegree\JokeSayer\app\build\intermediates\pre-dexed\paid\debug\backendJokeEngine-android-endpoints-903e803c1bfacc150a9824fff6e650c76117c3ed.jar" />
+    </item>
+    <item
+        jar="D:\study\MyApps\Nanodegree\JokeSayer\app\build\intermediates\exploded-aar\JokeSayer\jokeandroidlib\unspecified\jars\classes.jar"
+        jumboMode="false"
+        revision="22.0.1"
+        sha1="9d21faa614e706563185bc7ed661ced5d9549840">
+        <dex dex="D:\study\MyApps\Nanodegree\JokeSayer\app\build\intermediates\pre-dexed\paid\debug\classes-e19eb73a3e13bd7983522bddab5c5c066b3da420.jar" />
+    </item>
+    <item
+        jar="C:\Users\AnkurNigam\.gradle\caches\modules-2\files-2.1\com.google.code.findbugs\jsr305\1.3.9\40719ea6961c0cb6afaeb6a921eaa1f6afd4cfdf\jsr305-1.3.9.jar"
+        jumboMode="false"
+        revision="22.0.1"
+        sha1="40719ea6961c0cb6afaeb6a921eaa1f6afd4cfdf">
+        <dex dex="D:\study\MyApps\Nanodegree\JokeSayer\app\build\intermediates\pre-dexed\paid\debug\jsr305-1.3.9-0694652d41bdcef1981d9ef213a2a98764291768.jar" />
+    </item>
+    <item
+        jar="D:\study\MyApps\Nanodegree\JokeSayer\jokeandroidlib\build\intermediates\exploded-aar\com.android.support\support-v4\22.2.0\jars\classes.jar"
+        jumboMode="false"
+        revision="22.0.1"
+        sha1="1ee588ff2c4daf7b97c1cbf922a6c7f027285c2f">
+        <dex dex="D:\study\MyApps\Nanodegree\JokeSayer\jokeandroidlib\build\intermediates\pre-dexed\androidTest\debug\classes-16e1a8412b87c7b4b15ab6926145c2bed4df5627.jar" />
+    </item>
+    <item
+        jar="C:\Users\AnkurNigam\.gradle\caches\modules-2\files-2.1\com.google.guava\guava-jdk5\13.0\381ae6c8add7c98e9bcddb1e0b898400cd6fc3f7\guava-jdk5-13.0.jar"
+        jumboMode="false"
+        revision="22.0.1"
+        sha1="381ae6c8add7c98e9bcddb1e0b898400cd6fc3f7">
+        <dex dex="D:\study\MyApps\Nanodegree\JokeSayer\app\build\intermediates\pre-dexed\paid\debug\guava-jdk5-13.0-2773b3fc6b1f1da8dd51f8e157ef0c52a3d09544.jar" />
+    </item>
+    <item
+        jar="D:\study\MyApps\Nanodegree\JokeSayer\app\build\intermediates\exploded-aar\com.android.support\support-v4\22.2.0\jars\classes.jar"
+        jumboMode="false"
+        revision="22.0.1"
+        sha1="1ee588ff2c4daf7b97c1cbf922a6c7f027285c2f">
+        <dex dex="D:\study\MyApps\Nanodegree\JokeSayer\app\build\intermediates\pre-dexed\paid\debug\classes-4f053abb434deb67ec46940d6fbe89527b55aa1e.jar" />
+    </item>
+    <item
+        jar="D:\study\MyApps\Nanodegree\JokeSayer\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-analytics\7.5.0\jars\classes.jar"
+        jumboMode="false"
+        revision="22.0.1"
+        sha1="e7b35244f50663b3f8d150714bca9ecd7a290da1">
+        <dex dex="D:\study\MyApps\Nanodegree\JokeSayer\app\build\intermediates\pre-dexed\free\debug\classes-5f94681ba594e3b31614d96981d0e5d8d7b6d567.jar" />
+    </item>
+    <item
+        jar="D:\study\MyApps\Nanodegree\JokeSayer\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-wallet\7.5.0\jars\classes.jar"
+        jumboMode="false"
+        revision="22.0.1"
+        sha1="6836d188602ec5382d1967c58b00960eb8ff8773">
+        <dex dex="D:\study\MyApps\Nanodegree\JokeSayer\app\build\intermediates\pre-dexed\free\debug\classes-f53f5b9b1f4403740c22ed0e110dd21e2b21ab91.jar" />
+    </item>
+    <item
+        jar="D:\study\MyApps\Nanodegree\JokeSayer\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-ads\7.5.0\jars\classes.jar"
+        jumboMode="false"
+        revision="22.0.1"
+        sha1="29ebc7e04d877062317c8cc0e68b20f0c1fcda66">
+        <dex dex="D:\study\MyApps\Nanodegree\JokeSayer\app\build\intermediates\pre-dexed\free\debug\classes-95080b90a8820db371f6d0e6af15add97da22f9b.jar" />
+    </item>
+    <item
+        jar="C:\Users\AnkurNigam\.gradle\caches\modules-2\files-2.1\com.google.http-client\google-http-client-jackson2\1.19.0\81dbf9795d387d5e80e55346582d5f2fb81a42eb\google-http-client-jackson2-1.19.0.jar"
+        jumboMode="false"
+        revision="22.0.1"
+        sha1="81dbf9795d387d5e80e55346582d5f2fb81a42eb">
+        <dex dex="D:\study\MyApps\Nanodegree\JokeSayer\app\build\intermediates\pre-dexed\paid\debug\google-http-client-jackson2-1.19.0-8f90f8b85f50fcaf88bd2be6012f0cf6367b1aa8.jar" />
+    </item>
+    <item
+        jar="D:\study\MyApps\Nanodegree\JokeSayer\app\build\intermediates\exploded-aar\com.android.support\support-v4\22.2.0\jars\libs\internal_impl-22.2.0.jar"
+        jumboMode="false"
+        revision="22.0.1"
+        sha1="57f2ab85c164ff1676ec64dee787981c046fab79">
+        <dex dex="D:\study\MyApps\Nanodegree\JokeSayer\app\build\intermediates\pre-dexed\paid\debug\internal_impl-22.2.0-ebd490c90c0b10c9f9cffdfa3a468b0950455133.jar" />
+    </item>
+    <item
+        jar="D:\study\MyApps\Nanodegree\JokeSayer\app\build\intermediates\exploded-aar\com.android.support\appcompat-v7\22.2.0\jars\classes.jar"
+        jumboMode="false"
+        revision="22.0.1"
+        sha1="73753982da6bde518f3a4c6b372749981d14d1a0">
+        <dex dex="D:\study\MyApps\Nanodegree\JokeSayer\app\build\intermediates\pre-dexed\paid\debug\classes-ecb0fdf57a07cae040d495dc08a52ba53e957135.jar" />
+    </item>
+    <item
+        jar="D:\study\MyApps\Nanodegree\JokeSayer\app\build\intermediates\exploded-aar\com.android.support\mediarouter-v7\22.0.0\jars\classes.jar"
+        jumboMode="false"
+        revision="22.0.1"
+        sha1="a1372c17fccacca753d3951d3ad820571cbce075">
+        <dex dex="D:\study\MyApps\Nanodegree\JokeSayer\app\build\intermediates\pre-dexed\free\debug\classes-cd983b23f98b6c0e4ef7ab302eba26f62da7f246.jar" />
+    </item>
+    <item
+        jar="C:\Users\AnkurNigam\.gradle\caches\modules-2\files-2.1\com.google.oauth-client\google-oauth-client\1.19.0\d473a8962e14a707a3716637e4898bb2dd9643f2\google-oauth-client-1.19.0.jar"
+        jumboMode="false"
+        revision="22.0.1"
+        sha1="d473a8962e14a707a3716637e4898bb2dd9643f2">
+        <dex dex="D:\study\MyApps\Nanodegree\JokeSayer\app\build\intermediates\pre-dexed\paid\debug\google-oauth-client-1.19.0-5f4971a13399d68f2a865bd701c055ea1ffae871.jar" />
+    </item>
+    <item
+        jar="D:\study\MyApps\Nanodegree\JokeSayer\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-plus\7.5.0\jars\classes.jar"
+        jumboMode="false"
+        revision="22.0.1"
+        sha1="272bc5d7063f24bc3a33ea1d318cde8f31f5ec4c">
+        <dex dex="D:\study\MyApps\Nanodegree\JokeSayer\app\build\intermediates\pre-dexed\free\debug\classes-82802beda2965e2cea0449690f01c094c7b85184.jar" />
+    </item>
+    <item
+        jar="D:\study\MyApps\Nanodegree\JokeSayer\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-cast\7.5.0\jars\classes.jar"
+        jumboMode="false"
+        revision="22.0.1"
+        sha1="8e3a972f28b8bae817e382257ba177a31bcadbbc">
+        <dex dex="D:\study\MyApps\Nanodegree\JokeSayer\app\build\intermediates\pre-dexed\free\debug\classes-e1a2ea3b85bdc9db5c923a136e504600570f70fe.jar" />
+    </item>
+    <item
+        jar="C:\Users\AnkurNigam\.gradle\caches\modules-2\files-2.1\com.google.api-client\google-api-client\1.19.0\6a21277d9bebe267b7ddee028b241eebc756c040\google-api-client-1.19.0.jar"
+        jumboMode="false"
+        revision="22.0.1"
+        sha1="6a21277d9bebe267b7ddee028b241eebc756c040">
+        <dex dex="D:\study\MyApps\Nanodegree\JokeSayer\app\build\intermediates\pre-dexed\paid\debug\google-api-client-1.19.0-e1b5bd185d333840ca16386314267e50bbdc23d3.jar" />
+    </item>
+    <item
+        jar="D:\study\MyApps\Nanodegree\JokeSayer\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-wearable\7.5.0\jars\classes.jar"
+        jumboMode="false"
+        revision="22.0.1"
+        sha1="69dd177337ead693c408c8dddc9546bb6f1244fa">
+        <dex dex="D:\study\MyApps\Nanodegree\JokeSayer\app\build\intermediates\pre-dexed\free\debug\classes-93ba5bf88b71c855412279c203fa4c4be1a8f069.jar" />
+    </item>
+    <item
+        jar="D:\study\MyApps\Nanodegree\JokeSayer\jokeandroidlib\build\intermediates\exploded-aar\com.android.support\appcompat-v7\22.2.0\jars\classes.jar"
+        jumboMode="false"
+        revision="22.0.1"
+        sha1="73753982da6bde518f3a4c6b372749981d14d1a0">
+        <dex dex="D:\study\MyApps\Nanodegree\JokeSayer\jokeandroidlib\build\intermediates\pre-dexed\androidTest\debug\classes-9e748293450e9be46c7b2d59d2f9aabda8dd247c.jar" />
+    </item>
+    <item
+        jar="C:\Users\AnkurNigam\.gradle\caches\modules-2\files-2.1\com.google.http-client\google-http-client-android\1.19.0\e3f11020c2c812112803d252d1392872d3f619c8\google-http-client-android-1.19.0.jar"
+        jumboMode="false"
+        revision="22.0.1"
+        sha1="e3f11020c2c812112803d252d1392872d3f619c8">
+        <dex dex="D:\study\MyApps\Nanodegree\JokeSayer\app\build\intermediates\pre-dexed\paid\debug\google-http-client-android-1.19.0-4b848883cc0af88e745eaa4feb5a91ac95a2ec6d.jar" />
+    </item>
+    <item
+        jar="D:\study\MyApps\Nanodegree\JokeSayer\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-maps\7.5.0\jars\classes.jar"
+        jumboMode="false"
+        revision="22.0.1"
+        sha1="06a42becc33232ec0ee125161da68c1829c9f8fd">
+        <dex dex="D:\study\MyApps\Nanodegree\JokeSayer\app\build\intermediates\pre-dexed\free\debug\classes-b983b5ae6307f033d192954b7ecc76e27e566421.jar" />
+    </item>
+    <item
+        jar="C:\Users\AnkurNigam\.gradle\caches\modules-2\files-2.1\com.google.http-client\google-http-client\1.19.0\cdca49ad0977c040f603478aa2e16b2775c8fec6\google-http-client-1.19.0.jar"
+        jumboMode="false"
+        revision="22.0.1"
+        sha1="cdca49ad0977c040f603478aa2e16b2775c8fec6">
+        <dex dex="D:\study\MyApps\Nanodegree\JokeSayer\app\build\intermediates\pre-dexed\paid\debug\google-http-client-1.19.0-077ea12534c9808b74fba5812033ef048ed29440.jar" />
+    </item>
+    <item
+        jar="C:\Users\AnkurNigam\AppData\Local\Android\sdk\extras\android\m2repository\com\android\support\support-annotations\22.2.0\support-annotations-22.2.0.jar"
+        jumboMode="false"
+        revision="22.0.1"
+        sha1="66b42a1f3eb7676070b7ef7f14b603483aecbee1">
+        <dex dex="D:\study\MyApps\Nanodegree\JokeSayer\app\build\intermediates\pre-dexed\paid\debug\support-annotations-22.2.0-195e034ccb4e9b7e3e3586af1a7432a9946bcd15.jar" />
+    </item>
+    <item
+        jar="D:\study\MyApps\Nanodegree\JokeSayer\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-safetynet\7.5.0\jars\classes.jar"
+        jumboMode="false"
+        revision="22.0.1"
+        sha1="1a6411087ab88ce5542f593e63a2752b6b0d6f1a">
+        <dex dex="D:\study\MyApps\Nanodegree\JokeSayer\app\build\intermediates\pre-dexed\free\debug\classes-2bb8958d8c8d0b98ca9fca7490401bfeaac9c046.jar" />
+    </item>
+    <item
+        jar="D:\study\MyApps\Nanodegree\JokeSayer\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-base\7.5.0\jars\classes.jar"
+        jumboMode="false"
+        revision="22.0.1"
+        sha1="a78183f30e769a98ab4820794f597763088d3065">
+        <dex dex="D:\study\MyApps\Nanodegree\JokeSayer\app\build\intermediates\pre-dexed\free\debug\classes-95df753515d96907a057a86450e84161e53bcbf6.jar" />
+    </item>
+    <item
+        jar="D:\study\MyApps\Nanodegree\JokeSayer\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-drive\7.5.0\jars\classes.jar"
+        jumboMode="false"
+        revision="22.0.1"
+        sha1="f44d03c138cb6488fdbaa65e3a7e5878861a56d8">
+        <dex dex="D:\study\MyApps\Nanodegree\JokeSayer\app\build\intermediates\pre-dexed\free\debug\classes-614949a8f3d90b459b2666714377fde72242875f.jar" />
+    </item>
+    <item
+        jar="D:\study\MyApps\Nanodegree\JokeSayer\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-nearby\7.5.0\jars\classes.jar"
+        jumboMode="false"
+        revision="22.0.1"
+        sha1="6440e5e5cfe368f9bff3c537fb8988048069cb33">
+        <dex dex="D:\study\MyApps\Nanodegree\JokeSayer\app\build\intermediates\pre-dexed\free\debug\classes-9a8a348a562c010b19a06899e6dfc06f5eda4188.jar" />
+    </item>
+    <item
+        jar="C:\Users\AnkurNigam\.gradle\caches\modules-2\files-2.1\com.fasterxml.jackson.core\jackson-core\2.1.3\f6c3aed1cdfa21b5c1737c915186ea93a95a58bd\jackson-core-2.1.3.jar"
+        jumboMode="false"
+        revision="22.0.1"
+        sha1="f6c3aed1cdfa21b5c1737c915186ea93a95a58bd">
+        <dex dex="D:\study\MyApps\Nanodegree\JokeSayer\app\build\intermediates\pre-dexed\paid\debug\jackson-core-2.1.3-38c4c255a62ccb2be0378624000f535989299402.jar" />
+    </item>
+    <item
+        jar="D:\study\MyApps\Nanodegree\JokeSayer\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-panorama\7.5.0\jars\classes.jar"
+        jumboMode="false"
+        revision="22.0.1"
+        sha1="ba207be21987c11b37d9f8faa08ed6e722569f30">
+        <dex dex="D:\study\MyApps\Nanodegree\JokeSayer\app\build\intermediates\pre-dexed\free\debug\classes-b1aa3f98486266e1bf9f6ef88135c84452ebae46.jar" />
+    </item>
+    <item
+        jar="D:\study\MyApps\Nanodegree\JokeSayer\jokeandroidlib\build\intermediates\bundles\debug\classes.jar"
+        jumboMode="false"
+        revision="22.0.1"
+        sha1="117a388f216adc5248716d943e7abbf6c178d42a">
+        <dex dex="D:\study\MyApps\Nanodegree\JokeSayer\jokeandroidlib\build\intermediates\pre-dexed\androidTest\debug\classes-4ff2cd0a7a445672a5e06f90338488efb8a4875b.jar" />
+    </item>
+    <item
+        jar="D:\study\MyApps\Nanodegree\JokeSayer\jokeandroidlib\build\intermediates\exploded-aar\com.android.support\support-v4\22.2.0\jars\libs\internal_impl-22.2.0.jar"
+        jumboMode="false"
+        revision="22.0.1"
+        sha1="57f2ab85c164ff1676ec64dee787981c046fab79">
+        <dex dex="D:\study\MyApps\Nanodegree\JokeSayer\jokeandroidlib\build\intermediates\pre-dexed\androidTest\debug\internal_impl-22.2.0-f585255e5760747c6bd3cb59557947e014dd480e.jar" />
+    </item>
+    <item
+        jar="D:\study\MyApps\Nanodegree\JokeSayer\app\build\intermediates\exploded-aar\com.android.support\mediarouter-v7\22.0.0\jars\libs\internal_impl-22.0.0.jar"
+        jumboMode="false"
+        revision="22.0.1"
+        sha1="ba3df4eb0a630d7de294f0e48d3f9267d279b784">
+        <dex dex="D:\study\MyApps\Nanodegree\JokeSayer\app\build\intermediates\pre-dexed\free\debug\internal_impl-22.0.0-04be6b222f95bdb9f79d6a70dab6b7a0e63d45e9.jar" />
+    </item>
+    <item
+        jar="D:\study\MyApps\Nanodegree\JokeSayer\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-games\7.5.0\jars\classes.jar"
+        jumboMode="false"
+        revision="22.0.1"
+        sha1="02bac2dc792d78241077861566f2c82da955e7fa">
+        <dex dex="D:\study\MyApps\Nanodegree\JokeSayer\app\build\intermediates\pre-dexed\free\debug\classes-cce53fed8111f3831dbe8111e2c69f95af18e367.jar" />
+    </item>
+
+</items>
